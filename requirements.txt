@@ -1,0 +1,2 @@
+os
+win32com.client
