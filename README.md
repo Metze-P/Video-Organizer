@@ -8,6 +8,8 @@ This program is a Python-based automation tool that organizes mp4 video files in
 
 ### 1. Install dependencies
 
+This program uses the os and win32com.client modules. Use the following command to install both modules as listed in `requirements.txt`
+
 ```
 pip install -r requirements.txt
 ```
